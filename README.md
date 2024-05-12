@@ -1,12 +1,21 @@
-- 👋 Hi, I’m @Julianenobre13
-- 👀 I’m interested in dev full stack
-- 🌱 I’m currently learning análise de desenvolvimento de sistemas 
-- 💞️ I’m looking to collaborate on desenvolvimento de software 
-- 📫 How to reach me julianenobre123@gmail.com 
-- 😄 Pronouns: ela/dela
-- ⚡ Fun fact: quero me tornar poliglota 
 
-<!---
-Julianenobre13/Julianenobre13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### olá! Eu sou a Juliane Nobre 🖐🏾
+
+[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://sujeitoprogramador.com)
+
+![Nobre GitHub stats](https://github-readme-stats.vercel.app/api?username=JulianeNobre13&show_icons=true&theme=dracula)
+
+
+
+
+## Tecnologias que uso no meu dia a dia
+
+<div style="display: inline_block"><br/>
+<img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img align="center" alt="css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
+<img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+</div><br/>
+
+
+Apaixonada por tecnologia e programação.
